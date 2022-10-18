@@ -19,7 +19,7 @@ while path:=input("tag-翻译 对照文件路径：\n"):
             key,*val=line.split(sep=splitter,maxsplit=1)
             if not val:
                 continue
-            key=key.lower().replace(" ","_")
+            key=key.strip().lower().replace(" ","_")
             val=(splitter or " ").join(val)
             if key in tags and tags[key]!=val:
                 print(f"重复的 tag {key}  翻译 {tags[key]} => {val}")
