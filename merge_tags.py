@@ -15,7 +15,7 @@ sep=input(f"分隔符（默认为 {repr(SEP)}）：") or SEP
 
 tags={}
 with dan_zh.open(encoding="utf-8") as f:
-    for key,(ttype,val) in split_gen(f):
+    for key,ttype,val in split_gen(f):
         key=to_key(key)
         tags[key]=(ttype,to_val(val))
 
