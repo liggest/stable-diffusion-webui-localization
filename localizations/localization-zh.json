@@ -512,5 +512,7 @@
     "Only applies to inpainting models. Determines how strongly to mask off the original image for inpainting and img2img. 1.0 means fully masked, which is the default behaviour. 0.0 means a fully unmasked conditioning. Lower values will help preserve the overall composition of the image, but will struggle with large changes.": "只适用于图像修补模型\n决定了图像修补和图生图时对原图遮罩的程度\n1.0 为完全遮罩，是默认行为\n0.0 为完全不遮罩\n较小的值有助于保留图片的整体构图，但难以引起较大的变化",
     "List of setting names, separated by commas, for settings that should go to the quick access bar at the top, rather than the usual setting tab. See modules/shared.py for setting names. Requires restarting to apply.": "设置名的列表，以英文逗号分隔，将其中的设置放入页面顶部快速访问栏而非通常的设置选项卡\n设置名参见 modules/shared.py\n应用设置后需重启",
     "If this values is non-zero, it will be added to seed and used to initialize RNG for noises when using samplers with Eta. You can use this to produce even more variation of images, or you can use this to match images of other software if you know what you are doing.": "若此值非零，在用带有 Eta 的采样方法时，它会被加入随机种子并用于初始化噪声的随机数生成器\n可以用它来产生更多的图片变化\n也可以用它来贴近其他软件生成的图片，如果你知道自己在做什么的话",
-    "Enable Autocomplete": "启用自动补全"
+    "Autocomplete options": "启用自动选项",
+    "Enable Autocomplete": "启用自动补全",
+    "Append commas": "补全逗号"
 }
