@@ -4,14 +4,14 @@
 """
 
 from pathlib import Path
-from tag_util import dan_untrans, dan_zh, SEP, key_val_file, key_val_filtered, choose_val
+from tag_util import dan_untrans, dan_zh, get_sep, key_val_file, key_val_filtered, choose_val
 
 tags={}
 
 while path:=input("tag-翻译 对照文件路径：\n"):
     path=Path(path)
     print(repr(path))
-    sep=input(f"分隔符（默认为 {repr(SEP)}）：") or SEP
+    sep=get_sep()
     for i,(key,val) in enumerate(key_val_filtered(path,sep)):
         if current:=tags.get(key) and current!=val:
             print(f"发现 {key} 的不同翻译")

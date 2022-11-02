@@ -7,11 +7,11 @@
 
 from pathlib import Path
 
-from tag_util import dan_zh, SEP, split_gen, to_key, to_val, key_val_filtered, choose_val
+from tag_util import dan_zh, get_sep, split_gen, to_key, to_val, key_val_filtered, choose_val
 
 merge_file=Path(input("tag-翻译 对照文件路径：\n"))
 print(repr(merge_file))
-sep=input(f"分隔符（默认为 {repr(SEP)}）：") or SEP
+sep=get_sep()
 
 tags={}
 with dan_zh.open(encoding="utf-8") as f:

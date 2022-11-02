@@ -43,6 +43,10 @@ def key_val_filtered(path:Path,sep:str=SEP):
     """  读取 path 中 tag、翻译 并过滤的生成器  """
     return ((to_key(key),to_val(val)) for key,val in key_val_file(path,sep))
 
+def get_sep():
+    """  输入分隔符  """
+    return input(f"分隔符（默认为 {repr(SEP)}）：") or SEP
+
 if ChooseVal:
     def choose_val(old:str,new:str):
         """  从 old 和 new 中挑一个，或者两个都要，或者自己指定一个  """
