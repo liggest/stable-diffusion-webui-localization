@@ -547,7 +547,7 @@
     "List of setting names, separated by commas, for settings that should go to the quick access bar at the top, rather than the usual setting tab. See modules/shared.py for setting names. Requires restarting to apply.": "设置名的列表，以英文逗号分隔，将其中的设置放入页面顶部快速访问栏而非通常的设置选项卡\n设置名参见 modules/shared.py\n应用设置后需重启",
     "If this values is non-zero, it will be added to seed and used to initialize RNG for noises when using samplers with Eta. You can use this to produce even more variation of images, or you can use this to match images of other software if you know what you are doing.": "若此值非零，在用带有 Eta 的采样方法时，它会被加入随机种子并用于初始化噪声的随机数生成器\n可以用它来产生更多的图片变化\n也可以用它来贴近其他软件生成的图片，如果你知道自己在做什么的话",
     "Leave empty for auto": "留空以自动识别",
-    "NAIConvert": "转换 NAI 咒文",
+    "NAIConvert": "NAI 咒文转换",
     "History": "咒文历史",
     "Autocomplete options": "启用自动选项",
     "Enable Autocomplete": "启用自动补全",
