@@ -159,6 +159,7 @@ signature,签名
 dark_skin,黑皮肤
 hand_up,抬起手
 spread_legs,张腿
+silver_hair,银发
 cum,射精
 2boys,2男孩
 hood,兜帽
@@ -179,6 +180,7 @@ kimono,和服
 water,水
 grey_background,灰色背景
 necklace,项链
+black_legwear,黑丝袜
 off_shoulder,露肩式
 chibi,迷你|Q版
 bag,包
@@ -258,6 +260,7 @@ black_jacket,黑色夹克
 neckerchief,领巾
 head_tilt,歪着头
 crop_top,露腹短上衣
+white_legwear,白丝袜
 see-through,透明装
 orange_eyes,橙色的眼镜
 gradient,渐变
@@ -563,11 +566,13 @@ white_bow,白色蝴蝶结
 black_hairband,黑色发带
 x_hair_ornament,X形发饰
 horse_ears,马耳
+eyebrows,眉毛
 hair_bobbles,头绳
 wing_collar,燕子领
 on_stomach,趴着
 blue_shirt,蓝色衬衫
 plant,植物
+areolae,乳晕
 tan,小麦色（皮肤）
 lipstick,口红
 outstretched_arm,伸出手臂
@@ -793,9 +798,11 @@ eye_contact,眼神交流
 forehead,额头
 two-tone_background,双色调背景
 upskirt,从人的下方往上瞥
+striped_legwear,条纹裤袜
 areola_slip,乳晕走光
 furry,福瑞|毛茸茸|兽人
 seiza,正坐
+face,脸部
 yellow_bow,黄色的蝴蝶结
 blue_bikini,蓝色比基尼
 pink_flower,粉红色的花
@@ -917,6 +924,7 @@ cropped_jacket,短夹克
 epaulettes,肩章
 frilled_bikini,花边比基尼
 crossdressing,（变装）女装|男装|女装男子|女装
+hands,手|双手
 innertube,泳圈
 ribbon-trimmed_sleeves,丝带饰边袖子|缎带饰边袖子
 dragon_horns,龙角
@@ -1008,6 +1016,7 @@ dog,狗
 track_jacket,运动夹克
 competition_swimsuit,竞赛泳衣
 long_skirt,长裙
+tied_hair,扎好的头发
 striped_bikini,条纹比基尼
 ice,冰
 angel_wings,天使翅膀
@@ -1198,6 +1207,7 @@ round_teeth,无缝圆齿
 brother_and_sister,姐弟|兄妹
 hands_in_pockets,双手插在兜里
 nurse_cap,护士帽
+remodel_(kantai_collection),改三|改二|改
 front-tie_bikini_top,前系带比基尼上着
 visor_cap,遮阳帽
 yellow_flower,黄色的花
@@ -1333,6 +1343,7 @@ off-shoulder_shirt,露肩衬衫
 lactation,泌乳|哺乳
 swimsuit_under_clothes,里面穿着泳衣
 underbust,勒着下胸围的衣服
+brown_legwear,棕色的裤袜
 hat_flower,带着花的帽子
 eyeball,眼球
 untied,解开的衣物|没穿好的衣物
@@ -1562,6 +1573,7 @@ pleated_dress,百褶连衣裙
 space,太空|宇宙
 halloween_costume,万圣节装扮
 blue_leotard,蓝色连身衣
+doujinshi,同人志
 air_bubble,气泡
 steaming_body,发情
 randoseru,小学书包
@@ -1634,6 +1646,7 @@ star_print,星形图案|星形印花
 low_wings,腰间的翅膀
 ribbon_choker,缎带项圈
 cone_hair_bun,锥形发髻
+red_legwear,红色裤袜
 fujimaru_ritsuka_(female),咕哒子
 tasuki,襷
 asymmetrical_wings,不对称的翅膀
@@ -1705,6 +1718,7 @@ tiger_print,虎纹
 purple_headwear,紫色头饰
 red_shorts,红色短裤
 raglan_sleeves,连肩衣袖
+fishnet_legwear,渔网袜
 leg_ribbon,腿部丝带
 condom_wrapper,避孕套包装
 asymmetrical_clothes,不对称的服饰
@@ -1852,6 +1866,7 @@ erune,兽耳族
 blue_hairband,蓝色发带
 leggings,紧身裤
 mushroom,蘑菇
+purple_legwear,紫色裤袜
 tank,坦克
 dark_persona,黑化
 artist_self-insert,以作者本人为蓝本
@@ -1891,6 +1906,7 @@ trigger_discipline,手指没放在扳机上
 bikini_pull,扯着比基尼
 shoulder_pads,垫肩
 asymmetrical_docking,胸部互碰|胸顶着胸
+beige_background,米色背景
 sakazuki,盃
 doughnut,甜甜圈
 babydoll,背带裙睡衣
@@ -1986,6 +2002,7 @@ shoes_removed,脱下的鞋
 tiger_tail,虎尾
 orange_shirt,橙色衬衫
 handheld_game_console,手里拿着游戏机
+blue_neckwear,蓝色的领饰
 spiked_collar,带钉项圈
 rolling_eyes,翻白眼
 standing_sex,站立性爱
@@ -2104,6 +2121,7 @@ christmas_tree,圣诞树
 cushion,坐垫
 chaldea_uniform,迦勒底制服
 belt_pouch,腰包
+grey_legwear,灰色的裤袜
 ears_through_headwear,为耳朵留洞的头饰
 power_lines,电线
 ribs,肋骨
@@ -2142,6 +2160,7 @@ latex,乳胶
 clothed_male_nude_female,穿着衣服的男性和裸女
 sheep_horns,羊角
 shouting,喊叫
+platinum_blonde_hair,白金色头发
 broken,破碎的
 kariginu,狩衣
 on_chair,坐在椅子上
@@ -2150,6 +2169,7 @@ green_theme,绿色主题
 track_suit,运动服
 black_capelet,黑色披肩
 white_belt,白色腰带
+pink_legwear,粉色裤袜
 nervous,紧张|不安
 plaid_shirt,格子呢衬衫
 multi-strapped_bikini,细带款比基尼
@@ -2185,10 +2205,12 @@ fat_mons,丰满阴部
 blue_cape,蓝色斗篷
 oversized_object,大件物体
 ball_gag,口球
+blue_legwear,蓝色紧身裤
 white_hoodie,白色连帽衫
 skeleton,骨架
 old_man,老人
 red_capelet,红色披肩
+black_neckwear,黑色领子
 matou_sakura,间桐樱
 grey_sweater,灰色毛衣
 hair_pulled_back,头发后扎
@@ -2296,6 +2318,7 @@ sparkling_eyes,星星眼
 dressing,穿衣
 thighhighs_under_boots,长袜、过膝袜等外面再穿着靴子
 diamond_(shape),菱形（形状）
+checkered,方格图
 red_sweater,红色的毛衣
 single_sock,单边穿着长袜
 black_blindfold,黑色眼罩
@@ -2343,6 +2366,7 @@ yandere,病娇
 twilight,黄昏
 no_socks,没穿袜子
 purple_lips,紫色的嘴唇
+pot,锅
 exhibitionism,露出癖
 emiya_shirou,卫宫士郎
 water_gun,水枪
@@ -2434,6 +2458,7 @@ green_gloves,绿色的手套
 large_bow,大蝴蝶结
 condom_in_mouth,口叼避孕套
 full_armor,穿着全套盔甲的
+visor,面罩|遮阳帽舌|遮阳板
 striped_ribbon,条纹缎带
 leotard_under_clothes,内层穿着紧身连衣裤
 old_school_swimsuit,旧式死库水
@@ -2667,6 +2692,7 @@ you_gonna_get_raped,要被强奸的flag
 1koma,单格漫画
 sleeves_pushed_up,袖子往上拉起
 on_desk,在书桌上
+fingers_together,手指并拢
 teacher,教师
 sideways_mouth,把嘴画在侧脸
 nintendo_switch,任天堂switch
@@ -2804,6 +2830,7 @@ brown_scarf,棕色围巾
 rei_no_himo,（乳头）激凸
 black_rock_shooter_(character),黑岩射手
 nude_cover,裸体封面
+green_legwear,绿色的裤袜
 falling_leaves,落叶
 digital_media_player,随身听
 paradis_military_uniform,帕拉迪岛军装
@@ -2914,6 +2941,7 @@ explosive,易爆的
 floor,地板
 left-handed,左撇子
 grey_hoodie,灰色连帽衫
+vertical-striped_legwear,竖条纹裤袜
 egg_vibrator,跳蛋
 figure,手办
 duel,决斗
@@ -2941,6 +2969,7 @@ concept_art,概念图|三视图进阶
 test_tube,试管
 paper_bag,纸袋
 string_of_fate,命运的红线
+frilled_legwear,花边的裤袜
 lion_tail,狮子尾巴
 dancer,舞者
 mouse_girl,鼠娘
@@ -3140,6 +3169,7 @@ arms_around_neck,双手搂着脖子
 multi-tied_hair,多绑头发|头发绑着多条系带
 bunny_print,兔子图案
 shooting_star,流星
+green_neckwear,绿色的领结
 orange_hairband,橙色发带
 beer_can,听装啤酒
 bag_charm,背包挂件
@@ -3175,6 +3205,7 @@ stained_glass,彩色玻璃
 bodysuit_under_clothes,紧身衣裤
 hand_over_own_mouth,手掩着嘴
 vertical-striped_dress,竖条纹连衣裙
+hand_on_head,手放在头上
 hagoromo,羽衣
 gloom_(expression),消沉（表情）
 panda,熊猫
@@ -3298,6 +3329,7 @@ aiming_at_viewer,瞄准了读者（的视角）
 hand_on_another's_chest,手放在对方的胸前
 seamed_legwear,接缝裤袜
 ears_down,下垂的耳朵
+brush,刷子
 mole_on_thigh,大腿上有痣
 zombie_pose,僵尸姿势
 over-rim_eyewear,下半无框眼镜
@@ -3461,6 +3493,7 @@ nape,脖颈
 bomber_jacket,飞行员夹克
 shouji,障子
 orange_theme,橙色
+room,房间
 on_lap,在膝盖上
 beach_towel,沙滩巾
 hair_spread_out,头发散落|头发散开
@@ -3474,6 +3507,7 @@ dusk,黄昏
 black_headband,黑色头巾
 flask,烧瓶
 asphyxiation,窒息
+yellow_legwear,黄色裤袜
 egyptian_clothes,埃及风格服饰
 tally,在身上计数|画正字
 heart_tattoo,心形纹身
@@ -3772,6 +3806,7 @@ car_interior,汽车内饰
 bad_proportions,坏的人体比例
 nengajou,年贺状
 hands_on_lap,双手放在两腿之间
+teenage,青少年|青少年化
 plunging_neckline,深领
 prehensile_hair,活体头发|可念动的头发
 child_on_child,孩子们
@@ -4190,6 +4225,7 @@ graveyard,墓地
 taut_dress,绷紧的连衣裙
 staff_(music),工作人员（音乐）
 different_reflection,映出的另一面
+orange_legwear,橙色裤袜
 lipstick_tube,口红管
 choko_(cup),猪口杯
 shallow_water,浅水
@@ -4352,6 +4388,7 @@ omurice,蛋包饭
 monkey_ears,猴耳
 spell_card,符卡
 brown_kimono,棕色和服
+beige_sweater,米色毛衣
 alternate_weapon,与原设不同武器变化
 treasure_chest,宝箱
 stone_lantern,石灯笼
@@ -4577,6 +4614,7 @@ pie,馅饼
 peeping,偷窥（强调视角）
 sausage,香肠
 grey_bikini,灰色比基尼
+plaid_neckwear,格子呢领子
 papakha,高加索元素
 molten_rock,熔岩
 burnt_clothes,烧焦的衣服
@@ -4679,6 +4717,7 @@ white_mage,白魔道士
 ballerina,芭蕾舞女演员
 voyeurism,窥阴癖
 bishop_(chess),主教（国际象棋）
+hand_on_shoulder,手放在肩上
 plate_armor,板甲
 park,公园
 leopard_tail,豹尾
@@ -4770,6 +4809,7 @@ covering_ass,遮着臀部
 ammunition,弹药
 split_ponytail,尾部散开的单马尾发型
 pennant,三角旗
+red_neckwear,红色领子
 keizoku_military_uniform,继续高中军服
 butterfly_net,捕虫网
 aestus_estus,原初之火（武器）
@@ -5162,6 +5202,7 @@ urethral_insertion,尿道插入
 shoulder_holster,肩带式枪套
 how_to,画法示范
 dragging,角色在拖某物
+hidden_face,没有露脸|被挡住的脸
 squinting,瞇眼
 spaghetti,意大利面
 himejima_akeno,姬岛朱乃
@@ -5508,6 +5549,7 @@ cross-eyed,斗鸡眼的
 endou_mamoru,圆堂守
 is_that_so,so-nanoka（是这样啊的口癖）
 aircraft_carrier_oni,空母棲鬼
+mouth,嘴
 tatebayashi_sakurako,馆林樱子
 national_shin_ooshima_school_uniform,新大岛学园校服
 handjob_gesture,打手枪手势
@@ -5532,8 +5574,10 @@ serena_(yu-gi-oh!),赛瑞娜（游戏王）
 lying_card,平放的卡
 fisting,拳头插入
 multiple_insertions,一穴多插
+checkered_neckwear,格子领口
 boxing,拳击
 presenting_foot,展示脚部
+diagonal-striped_neckwear,斜纹领结
 force-feeding,强制喂食
 playing_card_theme,扑克主题
 pegging,女性使用假屌
