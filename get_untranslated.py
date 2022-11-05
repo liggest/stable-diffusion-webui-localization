@@ -4,17 +4,21 @@
     生成 danbooru-untranslated.csv
 """
 
-from tag_util import dan, dan_zh, dan_untrans, key_file, key_val_file
+from tag_util import dan, dan_zh, dan_untrans, key_file, write_csv
 
 tags=set(key_file(dan_zh)) # 读取已翻译的 tag
 
 total=0
 count=0
-with dan_untrans.open("w",encoding="utf-8") as uf:
-    for i,(key,ttype) in enumerate(key_val_file(dan)):
-        if key not in tags:
-            uf.write(f"{key},{ttype}\n") # 未翻译的 tag 写入 dan_untrans
+
+def diff_gen():
+    global total,count
+    for i,*key in enumerate(key_file(dan)):
+        if key[0] not in tags:
+            yield key # 未翻译的 tag 写入 dan_untrans
             count+=1
     total=i+1 # 只是计数
 
-print(f"{total}条中，{len(tags)}条已有翻译，{count}条尚无翻译")
+write_csv(diff_gen(),dan_untrans)
+
+print(f"{total} 条中，{len(tags)} 条已有翻译，{count} 条尚无翻译")

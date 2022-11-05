@@ -16,16 +16,22 @@
 	"appendComma": true,
 	"useWildcards": true,
 	"useEmbeddings": true,
+	"alias": {
+		"searchByAlias": true,
+		"onlyShowAlias": false
+	},
 	"translation": {
-		"searchByTranslation": true,
-		"onlyShowTranslation": false
+		"translationFile": "danbooru-zh.csv",
+		"oldFormat": false,
+		"searchByTranslation": true
 	},
 	"extra": {
-		"extraFile": "danbooru-zh.csv",
-		"onlyTranslationExtraFile": false
+		"extraFile": "",
+		"onlyAliasExtraFile": false
 	},
 	"colors": {
 		"danbooru": {
+			"-1": ["red", "maroon"],
 			"0": ["lightblue", "dodgerblue"],
 			"1": ["indianred", "firebrick"],
 			"3": ["violet", "darkorchid"],
