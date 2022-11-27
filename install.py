@@ -9,31 +9,16 @@ import shutil
 here=Path(__file__).parent
 ext_base=here.parent
 here_tags=here / "tags"
+
 tag_file="danbooru.csv"
-
-autocomplete_tags=None
-
-tags=ext_base.glob("*/tags/") # find autocomplete base
-for d in tags:
-    if any(f.name==tag_file for f in d.iterdir()):
-        autocomplete_tags=d
-        break
-
-if autocomplete_tags: # 安装了 tag-autocomplete
+if any((autocomplete_tags:=f.parent) for f in ext_base.glob(f"*/tags/{tag_file}")): # 安装了 tag-autocomplete
     shutil.copytree(here_tags,autocomplete_tags,dirs_exist_ok=True)
 
 mix_localization=False
 if mix_localization:
     here_locs=here / "localizations"
     zh_file="zh_CN.json"
-    zh_localization=None
-
-    for d in ext_base.glob("*/localizations/zh_CN.json"):
-        if any(f.name==zh_file for f in d.iterdir()):
-            zh_localization=d
-            break
-
-    if zh_localization:
+    if any((zh_localization:=f.parent) for f in ext_base.glob(f"*/localizations/{zh_file}")):
         zh_json=zh_localization / zh_file
         with zh_json.open(encoding="utf-8") as f:
             zh_dict:dict[str,str]=json.load(f)
