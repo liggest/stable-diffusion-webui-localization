@@ -381,6 +381,8 @@
     "any bugs.": "发现的 bug",
     "If you don't see any wildcards here, make sure you place wildcard files ending in .txt in a folder called \"/home/ubuntu/stable-diffusion-webui/extensions/dynamic-prompts/wildcards\". The collections folder contains thousands of wildcards which you can use or modify.": "如果这里没有任何通配咒文，请确保 .txt 格式的通配咒文文件放入了本扩展的 wildcards 目录；collections 目录中包含了数千条通配咒文，可自行取用修改",
     "Load": "加载",
+    "Wildcards file": "通配咒文文件",
+    "File editor": "编辑文件",
     "Save wildcards": "保存通配咒文",
     "Action": "行为",
     "txt2img-grids": "文生图宫格图",

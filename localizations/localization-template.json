@@ -386,6 +386,8 @@
     "any bugs.": "any bugs.",
     "If you don't see any wildcards here, make sure you place wildcard files ending in .txt in a folder called \"/home/ubuntu/stable-diffusion-webui/extensions/dynamic-prompts/wildcards\". The collections folder contains thousands of wildcards which you can use or modify.": "If you don't see any wildcards here, make sure you place wildcard files ending in .txt in a folder called \"/home/ubuntu/stable-diffusion-webui/extensions/dynamic-prompts/wildcards\". The collections folder contains thousands of wildcards which you can use or modify.",
     "Load": "Load",
+    "Wildcards file": "Wildcards file",
+    "File editor": "File editor",
     "Save wildcards": "Save wildcards",
     "Action": "Action",
     "txt2img-grids": "txt2img-grids",
